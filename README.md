@@ -1,3 +1,7 @@
+Analyzing and Visualizing Dognition company's data to better understand the data so that we can give some business recommendation to the company which will help them improve their business.
+
+
+
 Link to the Analysis: https://machinelearning349083579.wordpress.com/2022/04/07/analysing-and-visualising-dognition-companys-data/
 
 Download the data description required for the analysis.
